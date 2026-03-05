@@ -2,3 +2,41 @@ body{
     margin: 0;
     font-family:Arial, sans-serif;
 }
+
+header {
+    color: #55653E;
+    padding: 5px 0;
+    text-align: center;
+    margin: 30px 10px 0 10px;
+}
+  
+.general-tips {
+    background-color: #55653E;
+    color: white;
+    margin: 30px 0px;
+    padding: 30px 20px;
+    text-align: center;
+}
+
+.columns {
+    display: flex;
+    flex-direction: column;
+}
+.column {
+    margin: 0 10px;
+}
+
+.formcontainer {
+    margin: 50px;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    color:#55653E;
+  } 
+
+  footer{
+    margin: 50px;
+    text-align: center;
+    color:#55653E;
+    font-size: 10px;
+  }
