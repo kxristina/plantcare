@@ -63,6 +63,13 @@ img{
    margin: 0 auto;
 }
 
+h4{
+    margin: 50px;
+    font-size: 20px;
+    text-align: center;
+    color:#55653E;
+}
+
   footer{
     margin: 50px;
     text-align: center;
