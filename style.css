@@ -33,6 +33,24 @@ header {
     text-align: center;
     color:#55653E;
   } 
+form{
+    display: flex;
+    flex-direction: column;
+    margin: 0 auto;
+    padding: 20px;
+    gap: 10px;
+    border-radius: 5px;
+  }
+.btn {
+  background-color: #55653E;
+  color: white;               
+  padding: 5px; 
+  margin: 20px 0;
+  border: none;              
+  border-radius: 5px;         
+  font-size: 16px;
+  cursor: pointer;
+}
 
   footer{
     margin: 50px;
